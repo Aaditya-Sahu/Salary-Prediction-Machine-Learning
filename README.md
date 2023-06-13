@@ -4,7 +4,9 @@ Based on the available features, build a model to predict whether a person's inc
 
 Data Dictionary:
 1.Age: The age of an employee
+
 2.Work-class: Profession category
+
 3.Final_census : Census(population of the country)
 4.Education: Type of last (max) Education
 5.Education_num: Years spend on studies
